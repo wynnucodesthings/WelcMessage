@@ -1,0 +1,6 @@
+name: WelcomeMsg
+version: '${project.version}'
+main: welcomemsg.welcomemsg.WelcomeMsg
+api-version: 1.19
+authors: [ wy0009 ]
+description: wynne's test welcome message
