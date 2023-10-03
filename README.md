@@ -1,4 +1,5 @@
-# WelcMessage
-A minecraft welcommer plugin
+# Introduction:
+This plugin was made to test on velocity and paper servers and it was basically my first ever plugin on minecraft.
 
-- Welcomes the user to the server which has this plugin
+## purpose:
+Welcomes the user to the server which has this plugin.
